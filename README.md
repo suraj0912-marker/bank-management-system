@@ -93,7 +93,7 @@ This project was built with the help of:
 
 📧 Email: surajbehramarker@gmail.com  
 💼 GitHub: [suraj0912-marker](https://github.com/suraj0912-marker)  
-🔗 LinkedIn: *Coming Soon*  
+🔗 LinkedIn: *suraj behra*  
 
 ---
 
