@@ -27,28 +27,6 @@ A desktop-based Java application simulating core banking functionalities like ac
 
 ## 📸 Output Screenshots
 
-### 🔐 Login Screen
-![Login](https://github.com/suraj0912-marker/bank-management-system/blob/main/assets/login-screen.png)
-
-### 📝 Signup Form
-![Signup](https://github.com/suraj0912-marker/bank-management-system/blob/main/assets/signup-form.png)
-
-### 🏦 Dashboard
-![Dashboard](https://github.com/suraj0912-marker/bank-management-system/blob/main/assets/dashboard.png)
-
-### 💰 Deposit Form
-![Deposit](https://github.com/suraj0912-marker/bank-management-system/blob/main/assets/deposit-form.png)
-
-### 💸 Withdraw Form
-![Withdraw](https://github.com/suraj0912-marker/bank-management-system/blob/main/assets/withdraw-form.png)
-
-### 🔁 PIN Change
-![PIN Change](https://github.com/suraj0912-marker/bank-management-system/blob/main/assets/pin-change.png)
-
-### 🔍 Balance Enquiry
-![Balance Enquiry](https://github.com/suraj0912-marker/bank-management-system/blob/main/assets/balance-enquiry.png)
-
----
 
 ## 🚀 How to Run
 
